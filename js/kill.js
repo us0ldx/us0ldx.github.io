@@ -17,7 +17,7 @@ $(function() {
         animIndex++
     }
     window.setInterval(doInverseSpinZeroPitch, 100);
-    var tKillNames = ["us0ldx"];
+    var tKillNames = ["us0ldx1"];
     var ctKillNames = ["f3c0w0"];
     var ctKillNames = ["The KuCJloTa"];
     var weapons = ["ssg08", "ak47", "deagle", "g3sg1", "m4a4"];
